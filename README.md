@@ -1,0 +1,1 @@
+Brainly is a Second Brain App, that I am Building from scratch.
